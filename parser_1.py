@@ -15,12 +15,12 @@ V -> "smiled" | "tell" | "were"
 """
 
 NONTERMINALS = """
-S -> NP VP | NP Adv VP | S Conj S | S Conj VP 
+S -> NP VP | NP Adv VP | S Conj S | S Conj VP
 
-NP -> N | Det N | Det DS N
-VP -> V | V NP | V PN
+NP -> N | Det N | Det Adjs N | Det N PN
+VP -> V | V NP | V PN | VP Adv | VP P NP
 
-DS -> Adj | DS Adj
+Adjs -> Adj | Adjs Adj
 PN -> P NP
 
 
