@@ -28,3 +28,6 @@
 [submodule "Degrees"]
 	path = Degrees
 	url = https://github.com/bobby-palmer/Degrees
+[submodule "TicTacToe-AI"]
+	path = TicTacToe-AI
+	url = https://github.com/bobby-palmer/TicTacToe-AI
