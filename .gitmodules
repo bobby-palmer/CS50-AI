@@ -4,3 +4,27 @@
 [submodule "Parser"]
 	path = Parser
 	url = https://github.com/bobby-palmer/Parser
+[submodule "Nim"]
+	path = Nim
+	url = https://github.com/bobby-palmer/Nim
+[submodule "Shopping"]
+	path = Shopping
+	url = https://github.com/bobby-palmer/Shopping
+[submodule "Crossword"]
+	path = Crossword
+	url = https://github.com/bobby-palmer/Crossword
+[submodule "Heredity"]
+	path = Heredity
+	url = https://github.com/bobby-palmer/Heredity
+[submodule "PageRank"]
+	path = PageRank
+	url = https://github.com/bobby-palmer/PageRank
+[submodule "Minesweeper"]
+	path = Minesweeper
+	url = https://github.com/bobby-palmer/Minesweeper
+[submodule "Knights"]
+	path = Knights
+	url = https://github.com/bobby-palmer/Knights
+[submodule "Degrees"]
+	path = Degrees
+	url = https://github.com/bobby-palmer/Degrees
