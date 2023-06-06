@@ -1,0 +1,6 @@
+[submodule "Traffic"]
+	path = Traffic
+	url = https://github.com/bobby-palmer/Traffic
+[submodule "Parser"]
+	path = Parser
+	url = https://github.com/bobby-palmer/Parser
